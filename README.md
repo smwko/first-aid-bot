@@ -90,3 +90,10 @@ Conjunto de textos simulando llamadas de emergencia generados por ChatGPT4 para 
 ## Conclusión y Planes a Futuro
 
 Este proyecto representa un paso significativo hacia la democratización del acceso a información crucial en situaciones de emergencia médica. Para el futuro, se planea continuar mejorando el chatbot mediante la expansión de la base de datos, la mejora de los algoritmos de inteligencia artificial, la colaboración con instituciones médicas y la personalización de la experiencia del usuario.
+
+## Autores
+
+
+- [@alejandralapiezaperez](https://github.com/alejandralapiezaperez)
+- [@smwko](https://github.com/smwko)
+- [@rsm03](https://github.com/rsm03)
