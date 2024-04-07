@@ -1,0 +1,12 @@
+{"chemical burn": ["acid", "red", "swollen", "reaction", "contact", "product","spilled","cleaning"],
+"burn intoxication inhalation": ["cough", "breathe", "steam", "smoke", "gas", "air", "lung", "throat"],
+"severe burn": ["blister", "oil", "fire", "heat", "fur", "red", "boil", "hot"],
+"food poisoning": ["diarrhea", "vomit", "stomach", "nausea", "meal","eat","fever","abdominal"],
+"sting": ["insect", "snake", "bee", "fur", "swollen", "poison", "wasp", "spider", "inflammation"],
+"fire": ["forest", "firefighter", "extinguisher", "smoke", "exit", "hose", "alarm", "suffocation", "breathe"],
+"hemorrhage": ["blood", "court", "wound", "pressure","deep","cold","weak","cut","loss"],
+"electrocution": ["plug", "voltage", "electric","shock", "current", "strain", "wire", "contact", "download"],
+"choking": ["swallow", "meal", "stuck", "suffocation", "drown", "throat", "obstruction","food","obstruction"],
+"cardiopulmonary": ["heart", "breathe", "air", "defibrillator", "chest", "revive", "pulse", "cardiac", "unconscious"],
+"epilepsy": ["epileptic", "muscular", "rigid", "seizure", "spasm", "drop", "tremble", "shaking","seizure"],
+"hypoglycemia": ["pale", "tremble", "sweat", "hunger", "nausea", "fatigue", "anxiety","sugar","insulin"]}
