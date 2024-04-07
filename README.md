@@ -1,5 +1,8 @@
 # Healthy AI: Chatbot de Primeros Auxilios en Telegram
 
+## Vídeo presentación 
+[![Miniatura del video](https://img.youtube.com/vi/mib9tI81n0I/maxresdefault.jpg)](https://youtu.be/mib9tI81n0I)
+
 ## Descripción del Proyecto
 
 Este proyecto consiste en un chatbot desarrollado para la plataforma de mensajería Telegram, diseñado para proporcionar instrucciones rápidas y precisas sobre primeros auxilios en situaciones de emergencia. El chatbot utiliza inteligencia artificial para analizar los mensajes de texto y grabaciones de audio enviados por los usuarios, ofreciendo orientación basada en una base de datos confiable de procedimientos de primeros auxilios.
