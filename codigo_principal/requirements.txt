@@ -1,0 +1,11 @@
+nltk
+numpy
+pandas
+gtts
+joblib
+googletrans==4.0.0-rc1
+gensim
+SpeechRecognition
+pydub
+telebot
+scikit-learn
